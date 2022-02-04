@@ -1,5 +1,5 @@
-# ProContacto
-Evaluación Práctica
+## ProContacto
+> Evaluación Práctica
 
 **EJERCICIO 2**
 
@@ -31,40 +31,45 @@ Evaluación Práctica
 
 **EJERCICIO 3**
 
-1.
-2.
-3.
-4. ¿Qué diferencias se observan entre las llamadas el punto 1 y 3?
+1. Se realizoó un request GET a la URL indicada en el documento.
+- <img src="GET.PNG" align="center" />
+3. Posteriormente se realizó el request POST a la URL anterior.
+- <img src="POST1.PNG" align="center" />
+4. Y finalmente nuevamente se realizó un request GET a la URL con los resultados.
+- <img src="POST1.PNG" align="center" />
+5. ¿Qué diferencias se observan entre las llamadas el punto 1 y 3?
       - Se agregaron el nombre y el correo indicados en postman.
 
 **EJERCICIO 4**
 
-
+Link del perfil Trailhead [Luis Rodriguez](https://trailblazer.me/id/luisg3545).
 
 **EJERCICIO 5**
 
 Conceptos
 
 1.	Lead
-      -
+      - Es un potencial cliente que demostró interés en un producto o servicio.
 2.	Account
-      -
+      - Almacena la información sobre sus clientes mediante cuentas y contactos.
 3.	Contact
-      -
+      - Almacenar información acerca de personas con las que puedes hacer negocios.
 4.	Opportunity
-      -
+      - Son acuerdos en curso los registros de oportunidad realizan un seguimiento de detalles acerca de acuerdos.
 5.	Product
-      -
+      - Son los elementos y servicios que se distribuye a clientes.
 6.	PriceBook
-      -
+      - Son listas de precios de los productos y servicios que ofrece la compañía.
 7.	Quote
-      -
+      - Representa los precios propuestos de los servicios y productos de la compañía.
 8.	Asset
-      -
+      -  Representa un producto específico adquirido o instalado.
 9.	Case
-      -
+      - Es una pregunta, un comentario o un problema de un cliente.
 10.	Article
-      -
+      -  Permite a los usuarios ver y votar un artículo individual después de seleccionarlo en los resultados de búsqueda.
+
+[Driagrama](Driagrama.png)
 
 **EJERCICIO 6**
 
@@ -86,11 +91,11 @@ Funcionalidades de Salesforce
 1.	¿Qué es un RecordType?
       - Nos permiten definir diferentes Business Process, Pages Layouts y Picklist Values en un determinado objeto y/o información.
 2.	¿Qué es un ReportType?
-      - Representa los metadatos asociados con un tipo de informe personalizado. Los tipos de informes personalizados le permiten crear un marco a partir del cual los usuarios           pueden crear y personalizar informes.
+      - Representa los metadatos asociados con un tipo de informe personalizado. Los tipos de informes personalizados le permiten crear un marco a partir del cual los                    usuarios pueden crear y personalizar informes.
 3.	¿Qué es un Page Layout?
-      - Nos permite controlar el diseño y la organización de botones, campos, s-controls, Visualforce, enlaces personalizados y listas relacionadas en páginas de registros de            objetos.
+      - Nos permite controlar el diseño y la organización de botones, campos, s-controls, Visualforce, enlaces personalizados y listas relacionadas en páginas de                          registros de objetos.
 4.	¿Qué es un Compact Layout?
-      - Un formato compacto muestra los campos clave de un registro de un vistazo en la aplicación móvil Salesforce, Lightning Experience y en las integraciones de Outlook y               Gmail.
+      - Un formato compacto muestra los campos clave de un registro de un vistazo en la aplicación móvil Salesforce.
 5.	¿Qué es un Perfil?
       - Creación de una cuenta y definen cómo acceden los usuarios a objetos y datos y qué pueden hacer en la aplicación.
 6.	¿Qué es un Rol?
@@ -113,6 +118,7 @@ Funcionalidades de Salesforce
       -  Permite ofrecer una experiencia de cliente fluida en distintos canales integrándolos en un único sistema.
 15.	¿Para qué sirve la funcionalidad Chatter?
       - Es una aplicación de colaboración en tiempo real de Salesforce que permite a sus usuarios trabajar juntos, comunicarse y compartir información.
+
 Conceptos generales
 
 1.	¿Qué significa SaaS?
@@ -120,24 +126,25 @@ Conceptos generales
 2.	¿Salesforce es Saas?
       - Si.
 3.	¿Qué significa que una solución sea Cloud?
-      - 
+      - Que se maneja en la nube.
 4.	¿Qué significa que una solución sea On-Premise?
-      -
+      - Se maneja de manera local y la empresa y/u organización en la encargada de dar soluciones o darle mantenimiento.
 5.	¿Qué es un pipeline de ventas?
-      -
+      - Método que ayuda a la empresa a dar un mejor manejo en cada uno de los pasos con sus clientes.
 6.	¿Qué es un funnel de ventas?
-      -
+      - Es utilizado por las empresas para establecer alguna tarea o proceso y llegar a un punto final, enfocada a usuarios.
 7.	¿Qué significa Customer Experience?
-      -
+      - Es la experiencia del cliente y/o usuario después de utilizar tu producto.
 8.	¿Qué significa omnicanalidad?
-      -
+      - Es la atención al cliente, pero por distintos canales de comunicación.
 9.	¿Qué significa que un negocio sea B2B?¿Qué significa que un negocio sea B2C?¿Qué es un KPI?
-      -
+      - B2B: Comercialización de un producto y/o servicio de una empresa a otra
+      - KPI: Indicador clave o medidor de desempeño, su objetivo es facilitar tomar decisiones acerca de algun proyecto o proceso, tomando en cuenta diversos factores.
 10.	¿Qué es una API y en qué se diferencia de una Rest API?
-      - Las API permiten que varias elementos de software se conecten entre sí e intercambien                   información.
+      - Las API permiten que varias elementos de software se conecten entre sí e intercambien información.
       - Las Rest API acceden a informaciónn mediante protocolos REST estándar.
 11.	¿Qué es un Proceso Batch?
-      - Es un proceso por medio de lotes por medio de un comando y/o algoritmo que ayuda con la                eficiencia de algún proceso, sin la necesidad de interactuar con un usuario.
+      - Es un proceso por medio de lotes por medio de un comando y/o algoritmo que ayuda con la eficiencia de algún proceso, sin la necesidad de interactuar con un                         usuario.
 12.	¿Qué es Kanban?
       - Método para una mejor gestión de diversas tareas.
 13.	¿Qué es un ERP? 
@@ -147,4 +154,13 @@ Conceptos generales
 
 **EJERCICIO 7**
 
+[Trigger](Trigger)
 
+## COLABORADOR
+
+Luis Gustavo Rodriguez Rosales.
+
+Licenciatura en Ingeniería en Sistemas Computacionales.
+
+## License
+[LICENSE](LICENSE)
